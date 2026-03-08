@@ -1,0 +1,36 @@
+{
+  "id": "fvtt-ptbr-sf2e-translation",
+  "title": "Português Brasileiro para Starfinder 2e",
+  "description": "Módulo de tradução em português do Brasil para Starfinder Second Edition no Foundry VTT.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Eric Fernando",
+      "url": "https://github.com/ericfjgg"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "REPLACE_WITH_REAL_SYSTEM_ID",
+        "type": "system"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "translation/pt-BR/pt-BR.json",
+      "system": "REPLACE_WITH_REAL_SYSTEM_ID"
+    }
+  ],
+  "url": "https://github.com/ericfjgg/fvtt-ptbr-sf2e-translation",
+  "manifest": "https://raw.githubusercontent.com/ericfjgg/fvtt-ptbr-sf2e-translation/main/module.json",
+  "download": "https://github.com/ericfjgg/fvtt-ptbr-sf2e-translation/archive/refs/heads/main.zip",
+  "license": "MIT"
+}

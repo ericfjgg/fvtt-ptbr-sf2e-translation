@@ -1,0 +1,7 @@
+{
+  "name": "fvtt-ptbr-sf2e-translation",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Módulo de tradução em português do Brasil para Starfinder Second Edition no Foundry VTT.",
+  "license": "MIT"
+}
